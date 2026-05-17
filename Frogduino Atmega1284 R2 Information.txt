@@ -1,0 +1,19 @@
+﻿Project Title: 		FrogduinoR2
+Borard Title: 		PCB6
+PCB Title: 		PCB6
+Time: 		2026-05-13 09:42:45
+
+Borard Size: 		3375mil x 2540mil
+Layers: 		Total 24, Copper 2
+
+Devices: 		17
+Footprints: 		17
+Components: 		Total 29,Top Layer 29,Bottom Layer 0
+Pads: 		Total 239, Table Stick 44,Metallized Hole 195, Nonmetallic Hole 0
+Nets: 		Total 10, Unrouted 0
+
+Slot Region: 		0
+Vias: 		Total 0, Through Vias 0, Blind Or Buried Vais 0
+CopperAreas: 		1
+Length of Tracks: 		69523.5mil
+
